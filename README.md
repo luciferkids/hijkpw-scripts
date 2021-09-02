@@ -2,7 +2,7 @@
 
 相关教程：https://web.archive.org/web/20210617020357/https://v2raytech.com/script-collection/
 
-原网站可能已经失效了，所以用网站时光机备份版本，里面相同脚本的教程进行了合并。
+原网站可能已经失效了，所以用网站时光机备份版本，以下相同脚本的教程进行了合并。
 
 V2ray
 
