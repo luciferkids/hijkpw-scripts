@@ -40,5 +40,34 @@ SSR
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ssr.sh)
 
+SS
 
+【1】SS一键脚本Centos版/SS一键脚本Ubuntu版
 
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ss.sh)
+
+MTProxy
+
+【1】MTProto一键脚本
+
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/mtproto.sh)
+
+VPS
+
+【1】魔改BBR/BBR Plus/锐速一键安装脚本
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
+
+【2】V2ray伪装建站脚本
+
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/wordpress.sh)
+
+【3】Trojan伪装建站脚本
+
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/wordpress_trojan.sh)
+
+【4】VPS一键测试脚本
+
+wget https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/testrace.sh
+
+bash testrace.sh
